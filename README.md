@@ -57,6 +57,13 @@ y usamos el comando npm install -g @angular/cli igualmente se pondra la instalac
 ![image](https://github.com/learning-guides/Learn_Angular/assets/141972615/c31a181c-6d45-41b4-bd2c-8a0acf92624b)
 
 
+Cuando usemos una versión anterior si debemos instalar la version espesifica ejemplo:
+
+![image](https://github.com/learning-guides/Learn_Angular/assets/141972615/d3092dbf-f5a7-4ad4-a7c5-694e54b6c644)
+
+![image](https://github.com/learning-guides/Learn_Angular/assets/141972615/69f7793a-760e-482b-a052-37ffc346bdf1)
+
+
 
 
 
