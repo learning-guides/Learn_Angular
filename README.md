@@ -50,6 +50,13 @@ o en esta pagina encuentras todos los releases
 
 https://github.com/angular/angular-cli/releases
 
+ejemplo si estamos ubicados en una version de node anterios ejemplo 16.20.2
+
+y usamos el comando npm install -g @angular/cli igualmente se pondra la instalacion mas reciente de angular y esto generara conflitos
+
+![image](https://github.com/learning-guides/Learn_Angular/assets/141972615/c31a181c-6d45-41b4-bd2c-8a0acf92624b)
+
+
 
 
 
